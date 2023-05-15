@@ -1,4 +1,4 @@
-name: Deploy Plotly Dashboard Test
+name: Deploy Plotly Dashboard Test1
 
 on:
   push:
